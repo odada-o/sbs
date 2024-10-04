@@ -7,3 +7,4 @@
 ### 프로젝트 소개
 
 - sbs 프로젝트는 sbs를 이용한 프로젝트입니다.
+- sbs는 Spring Boot와 Spring Security를 이용한 프로젝트입니다.
